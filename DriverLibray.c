@@ -1,9 +1,5 @@
-// Kelompok 8
-// Jeremy Pardede 13321031
-// Benni Sibarani 13321035
 // Brian Napitupulu 13321036
-// Joe Manurung 13321041
-// Risda Malau 13321051
+
 
 #include <stdio.h>
 #include <stdlib.h>
